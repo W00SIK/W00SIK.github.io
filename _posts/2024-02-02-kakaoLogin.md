@@ -1,7 +1,7 @@
 ---
-title: kakaoLogin
+title: Kakao SignIn
 date: 2024-02-02 18:00:00 +0900
-categories: [stack, signIn]
+categories: [stack, sign]
 tags: [stack]
 ---
 
@@ -9,7 +9,7 @@ tags: [stack]
 <br>
 <br>
 
-# kakaoLogin
+# Kakao SignIn
 
 ---
 
